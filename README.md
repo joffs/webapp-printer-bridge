@@ -228,7 +228,7 @@ Requirements:
 Build and test:
 
 ```
-git clone https://github.com/OWNER/webapp-printer-bridge.git
+git clone https://github.com/joffs/webapp-printer-bridge.git
 cd webapp-printer-bridge
 powershell -ExecutionPolicy Bypass -File scripts\fetch-pdfium.ps1
 cargo test
